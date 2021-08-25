@@ -1,6 +1,6 @@
 - Hi, I’m @ryanmogauro
 - I’m interested in programming and machine learning
-- I’m currently learning Python, Django, and Swift
+- I’m currently learning Python
 - How to reach me: ryanmogauro@gmail.com
 - Currently studying computer science and math at Colby College
 
