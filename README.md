@@ -1,7 +1,7 @@
 - Hi, I’m @ryanmogauro
 - I’m interested in programming and machine learning
 - I’m currently learning Python, Java, and more
-- I'm studying computer science and math at Colby College
+- I'm studying computer science and statistics at Colby College
 - How to reach me: ryanmogauro@gmail.com
 
 <!---
