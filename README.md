@@ -1,5 +1,5 @@
 - Hi, I’m @ryanmogauro
-- I’m interested in programming and machine learning
+- I’m interested in software development and machine learning
 - I'm studying computer science and statistics at Colby College
 - How to reach me: ryanmogauro@gmail.com
 
