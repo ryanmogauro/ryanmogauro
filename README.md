@@ -1,7 +1,7 @@
 - Hi, I’m @ryanmogauro
 - I’m interested in software development and machine learning
-- I'm studying computer science and statistics at Colby College
-- How to reach me: ryanmogauro@gmail.com
+- I'm studying Computer Science and Statistics at Colby College
+- How to reach me: rmogau25@colby.edu
 
 <!---
 ryanmogauro/ryanmogauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
