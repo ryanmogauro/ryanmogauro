@@ -1,6 +1,6 @@
 - Hi, I’m @ryanmogauro
 - I’m interested in software development and machine learning
-- I'm a Junior at Colby College studying Computer Science and Statistics 
+- I'm a Junior at Colby College studying computer science and statistics 
 - How to reach me: rmogau25@colby.edu
 
 <!---
